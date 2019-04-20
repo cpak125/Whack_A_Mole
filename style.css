@@ -19,8 +19,8 @@ html {
     text-align: center;
     font-size: 10rem;
     line-height: 1;
-    margin-bottom: 0;
-    position: relative;
+    margin: 0 auto;
+    padding-top: 20px;
   }
   
   .score {
@@ -38,14 +38,34 @@ html {
     margin: 0 auto;
   }
 
-  @media (max-width : 380px) {   
+  @media (max-width : 600px) {   
     
-    h1{
+    h1 {
         font-size: 6rem;   
         width: 600px;
     }
+
+    .startButton{
+        width: 600px;
+    }
+    
   }
   
+  button {
+    padding: 8px 40px; 
+    background-color: green;
+    border-radius: 10px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    color: #FFF;
+    letter-spacing: 0.5rem;
+  }
+
+.startButton{
+    display:flex;
+    justify-content: center;
+}
+
   .hole {
     flex: 1 0 33.33%;
     overflow: hidden;
