@@ -13,7 +13,7 @@ https://eager-gates-bb785f.netlify.com/
 3. Javascript
 4. jQuery
 
-## Things I learned
+## Things I Learned
 1. Practice with setTimeout() method
 2. Practice with forEach() method
 3. Practice with Math object
