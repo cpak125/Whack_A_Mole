@@ -2,11 +2,11 @@
 
 Developed a version of the infamous Whack-A-Mole game as a web application. I was inspired by Wes Bos's Javascript30 whack-a-mole game and decided to recreate my own version. Once a player presses the start button a mole pops up from a random hole and stays visible for a random amount of time, in which the player must click ("whack") in order to score a point. Each round of play lasts 10 seconds.
 
+[Deployed App](https://cpak-whack-a-mole.netlify.app/)
+
 ![alt text](https://github.com/cpak125/Whack_A_Mole/blob/master/img/screenshot.png)
 
-## Deployed App
-https://eager-gates-bb785f.netlify.com/
-
+s
 ## Technologies Used
 1. HTML
 2. CSS
